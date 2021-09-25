@@ -4,4 +4,4 @@ import sys
 from db import db
 sys.path.append("../")
 
-scores_api = Blueprint("scores", __name__)
+auth_api = Blueprint("auth", __name__)
