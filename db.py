@@ -9,3 +9,7 @@ db = [{
     "name": "Hui Hui",
     "scores": [9, 29, 34]
 }]
+
+creds = [{"username" : "vina", "passwordHash" : "test123"}]
+
+AUTH_SECRET_KEY = 'testsecretkey1'
